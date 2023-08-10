@@ -1,7 +1,6 @@
 """
 Battleship Project
 Name: Phanindra Gupta
-Roll No: 2021-IIITH-C1-017
 """
 
 
